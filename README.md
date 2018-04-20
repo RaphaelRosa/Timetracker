@@ -4,8 +4,8 @@
 
 ## Models
 - Task -> title:text start:time end:time
-- User -> Devise
-- AdminUser -> STI
+x User -> Devise
+x AdminUser -> STI
 
 ## Features
 - Task Creation
